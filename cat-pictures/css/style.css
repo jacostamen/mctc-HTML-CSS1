@@ -1,0 +1,61 @@
+h1, h2, h3{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    /* @font-face {
+        font-family: "decorative";
+        src: url(hangingletters.woff);
+    } */
+    
+}
+
+h1{
+    text-align:center;
+    background-color:rgb(0, 60, 128);
+    
+
+}
+body {
+    background-color: black;
+    color: white;
+}
+h2, h3{
+    border-style:double;
+    border-color:black;
+    background-color: rgb(0, 60, 128);
+    border-inline-end: 30px;
+
+
+}
+h2{
+    text-align:center;
+}
+p, li{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    
+
+}
+p{
+    text-align:center;
+}
+.image1{
+    border-style:double;
+    border-radius: 20px;
+    border-width: 7px;
+    border-color: white;
+    
+    
+}
+.image2{
+    border-style:double;
+    border-width:7px;
+    border-radius: 20px;
+    border-color: white;
+}
+.image3{
+    border-style:double;
+    border-color:white;
+    border-width: 7px;
+    border-radius: 20px;
+}
+
+
